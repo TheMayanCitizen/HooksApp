@@ -12,3 +12,5 @@
 - useCounter
 - useForm
 - useTodo(TODOsApp)
+
+### No particular instalations
