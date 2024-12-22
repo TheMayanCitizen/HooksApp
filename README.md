@@ -5,6 +5,7 @@
 - useRef
 - useCallback
 - useReducer(TODOsApp)
+- useContext(Uso del react-router-dom)
 
 ## Custom hooks
 
@@ -13,4 +14,7 @@
 - useForm
 - useTodo(TODOsApp)
 
-### No particular instalations
+### Particular instalations
+
+- npm i react-router:
+  - https://reactrouter.com/start/library/installation
